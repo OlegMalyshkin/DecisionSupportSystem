@@ -11,5 +11,5 @@
 * condition of the runway.
 #### The program analyses findings and gives out a decision on continuation of flight or his stopping - "ЗЛІТАТИ" (take off) or "НЕ ЗЛІТАТИ" (not take off).
 
-#### View
+#### GUI
 ![View](https://github.com/OlegMalyshkin/DecisionSupportSystem/raw/master/view.png)

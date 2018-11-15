@@ -10,3 +10,5 @@
 * flap deviation angle (for runways covered with artificial surface - at least 15 °, for unpaved or snowy runways - at least 25 °)
 * condition of the runway.
 #### The program analyses findings and gives out a decision on continuation of flight or his stopping - "ЗЛІТАТИ" (take off) or "НЕ ЗЛІТАТИ" (not take off).
+
+![View](https://github.com/OlegMalyshkin/DecisionSupportSystem/raw/master/view.png)

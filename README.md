@@ -7,7 +7,7 @@
 #### Initial data
 * the size of the runway, stopped behind after a start in the moment of decision-making (at least 500 m);
 * the number of working engines (at least three)
-* flap deviation angle (for runways covered with artificial surface - at least 15 °, 
+* flap deviation angle (for runways covered with artificial surface - at least 15 °,/n 
                         for unpaved or snowy runways - at least 25 °)
 * condition of the runway.
 #### The program analyses findings and gives out a decision on continuation of flight or his stopping - "ЗЛІТАТИ" (take off) or "НЕ ЗЛІТАТИ" (not take off).

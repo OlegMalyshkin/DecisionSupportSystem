@@ -1,6 +1,6 @@
 ## Decision Support System
 
-#### Decision Support System is a simple program which solve some of the most important question "take off or not", because of one of the most dangerous parts of the flight is a take off. This application is based on an arcraft flight manual [An-12](http://www.aviadocs.net/RLE/An-12/CD1/RLYE/An-12_RLYE.pdf "arcraft flight manual An-12"). So, answers are correct only for An-12.
+#### Decision Support System is a simple program which solve some of the most important question "take off or not", because of one of the most dangerous parts of the flight is a take off. This application is based on an arcraft flight manual [An-12](https://www.cia.gov/library/readingroom/docs/DOC_0001316457.pdf"). So, answers are correct only for An-12.
 
 #### Main idea: using neural network as a simple artificial intelligence. This app uses [FANN](http://leenissen.dk/fann/wp/) 
 
